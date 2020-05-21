@@ -1,4 +1,4 @@
-# DIP-Analysis
+# DIP Analysis
 
 ## Author
 You can get in touch with me on my LinkedIn Profile:
